@@ -1,2 +1,2 @@
 # django_email
-Custom Django Email Authentication Backend
+Custom Django 1.9 Email Authentication Backend
